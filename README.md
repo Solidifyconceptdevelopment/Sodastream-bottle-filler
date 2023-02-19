@@ -27,3 +27,7 @@ Schematic:
 Note: to fit the JST connector in the 3D printed housing, cut the locking tabs from the sides as shown
 
 ![alt text](https://github.com/Solidifyconceptdevelopment/Sodastream-bottle-filler/blob/main/3D%20print/2023-02-19_14-36-09.jpg?raw=true)
+
+Finished PCB:
+
+![alt text](https://github.com/Solidifyconceptdevelopment/Sodastream-bottle-filler/blob/main/IMG_20221111_134041.jpg)
