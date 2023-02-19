@@ -7,6 +7,9 @@ Requires the following parts:
 - Flow sensor: https://www.aliexpress.com/item/1005001621677615.html
 - 12V LED button: https://www.aliexpress.com/item/1005003423119084.html
 - 12V DC power supply
+
+Through hole components:
+
 - Arduino nano
 - Barrel jack
 - 5V Piëzo buzzer (passive)
